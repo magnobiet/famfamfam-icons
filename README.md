@@ -11,9 +11,3 @@ Smooth, colourful icons for any purpose
 Country flags. Small and plentiful
 
 ![Flags Preview](http://www.famfamfam.com/lab/icons/flags/flags_preview_small.gif)
-
-## Mini
-
-Over 140 pixelicious web icons in GIF format
-
-![Mini Preview](http://www.famfamfam.com/lab/icons/mini/mini_preview_small.gif)
